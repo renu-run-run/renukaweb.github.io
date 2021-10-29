@@ -1,0 +1,85 @@
+.bgimg{
+	background-image: url('../img/fsh.jpeg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width:100%;
+	height: 660px;
+}
+
+.hearderset{
+	padding-top: 250px;
+	box-sizing: border-box;
+}
+.hearderset h2{
+    font-size:42px;
+}
+.hearderset h1{
+	font-size: 82px;
+	font-weight: bold;
+}
+.pager{
+	font-size: 30px;
+	font-weight: bold;
+
+}
+.hactive a{
+	border-bottom: 2px solid #fff;
+}
+
+
+
+
+/*
+......................our services...............*/
+
+
+
+.ourservices{
+	padding: 100px 0px 60px;
+	height: 700px;
+}
+.ourservices h1{
+     font-size: 50px;
+     font-weight: bold;
+}
+.rowsetting{
+	margin: 80px 0px !important;
+
+}
+.imgsetting{
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+}
+.fa-shopping-cart{
+	margin-top: 20px;
+}
+.fa-desktop{
+	margin-top: 26px;
+}
+.fa-lock{
+	margin-top: 26px;
+}
+.rowsetting p{
+	padding: 10px ;
+	color: #6c757d!important;
+}
+.rowsetting h2{
+	margin-top: 20px;
+	font-weight: bold;
+	font-size: 30px;
+}
+/*///////////////portfolio///////////////*/
+.portfolio h1{
+	padding: 100px 0px 50px;
+	height: 10px;
+	width: 100%;
+	font-size: 50px;
+	font-weight: bold;
+}
+.portfolio p{
+	padding: 10px;
+}
+.card{
+	margin-top: 40px;
+}
